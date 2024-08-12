@@ -118,7 +118,7 @@ Stay connected with the EpicChain community and get support:
 - **GitHub:** [EpicChain GitHub Repository](https://github.com/epicchainlabs/coreDNS-plugin-chain)
 - **Slack:** Join us on Slack at #epicchain [here](https://slack.epic-chain.org)
 - **Website:** [EpicChain Official Website](https://epic-chain.org)
-- **Blog:** [EpicChain Blog](https://blog.epic-chain.org)
+- **Blog:** [EpicChain Blog](https://epic-chain.org/blog)
 - **Twitter:** [@EpicChain](https://twitter.com/EpicChainLabs)
 - **Mailing List:** [epicchain-discuss@googlegroups.com](mailto:epicchain-discuss@googlegroups.com)
 

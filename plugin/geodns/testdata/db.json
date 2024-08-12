@@ -1,0 +1,26 @@
+[
+  {
+    "country": "Orgrimmar",
+    "cidr": "4444:1::/64",
+    "latitude": 24,
+    "longitude": -41
+  },
+  {
+    "country": "Warsong Hold",
+    "cidr": "4444:2::/64",
+    "latitude": 80,
+    "longitude": 0
+  },
+  {
+    "country": "Stormwind",
+    "cidr": "4444:3::/64",
+    "latitude": -40,
+    "longitude": 109
+  },
+  {
+    "country": "Thunder Bluff",
+    "cidr": "4444:4::/64",
+    "latitude": 26,
+    "longitude": -78
+  }
+]

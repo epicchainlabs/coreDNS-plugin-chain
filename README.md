@@ -1,11 +1,11 @@
 [![EpicChain](https://epic-chain.org/images/EpicChain_Logo.png)](https://epic-chain.org)
 
-[![Documentation](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/epicchainlabs/epicchain)
+[![Documentation](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/epicchainlabs/coreDNS-plugin-chain)
 [![Build Status](https://img.shields.io/travis/epicchain/epicchain/master.svg?label=build)](https://travis-ci.org/epicchain/epicchain)
 [![Fuzzit](https://app.fuzzit.dev/badge?org_id=epicchain&branch=master)](https://fuzzit.dev)
 [![Code Coverage](https://img.shields.io/codecov/c/github/epicchain/epicchain/master.svg)](https://codecov.io/github/epicchain/epicchain?branch=master)
 [![Docker Pulls](https://img.shields.io/docker/pulls/epicchain/epicchain.svg)](https://hub.docker.com/r/epicchain/epicchain)
-[![Go Report Card](https://goreportcard.com/badge/github.com/epicchainlabs/epicchain)](https://goreportcard.com/report/epicchain/epicchain)
+[![Go Report Card](https://goreportcard.com/badge/github.com/epicchainlabs/coreDNS-plugin-chain)](https://goreportcard.com/report/epicchain/epicchain)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1250/badge)](https://bestpractices.coreinfrastructure.org/projects/1250)
 
 ## EpicChain Overview
@@ -27,8 +27,8 @@ EpicChain is an advanced blockchain platform designed to provide a flexible and 
 To build EpicChain from source, ensure you have a working Go environment (version 1.12 or higher). Follow these steps:
 
 ```bash
-$ git clone https://github.com/epicchainlabs/epicchain
-$ cd epicchain
+$ git clone https://github.com/epicchainlabs/coreDNS-plugin-chain
+$ cd coreDNS-plugin-chain
 $ make
 ```
 
@@ -115,7 +115,7 @@ EpicChain's configuration is managed through a file named `Epicfile`. Here are s
 
 Stay connected with the EpicChain community and get support:
 
-- **GitHub:** [EpicChain GitHub Repository](https://github.com/epicchainlabs/epicchain)
+- **GitHub:** [EpicChain GitHub Repository](https://github.com/epicchainlabs/coreDNS-plugin-chain)
 - **Slack:** Join us on Slack at #epicchain [here](https://slack.epic-chain.org)
 - **Website:** [EpicChain Official Website](https://epic-chain.org)
 - **Blog:** [EpicChain Blog](https://blog.epic-chain.org)
@@ -144,5 +144,5 @@ EpicChain follows a structured deprecation policy to manage backwards incompatib
 
 **Reporting Vulnerabilities:** If you discover a security issue, please report it privately to `security@epic-chain.org`. Your contributions to our security are greatly appreciated.
 
-For detailed security practices, refer to our [security documentation](https://github.com/epicchainlabs/epicchain/blob/master/SECURITY.md).
+For detailed security practices, refer to our [security documentation](https://github.com/epicchainlabs/coreDNS-plugin-chain/blob/master/SECURITY.md).
 
